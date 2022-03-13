@@ -1,4 +1,3 @@
-from email.headerregistry import ContentTransferEncodingHeader
 import time
 from main.Logger.Python.Logger import GerarLog
 
