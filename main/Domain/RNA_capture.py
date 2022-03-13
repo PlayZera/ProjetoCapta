@@ -2,10 +2,9 @@ import time
 
 from selenium import webdriver
 
+class Capture():
 
-class Teste():
-
-    def testeChrome():
+    def captureFromFile():
 
         driver = webdriver.Chrome('../WebDriver/chromedriver.exe')
 
