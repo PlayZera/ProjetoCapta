@@ -8,5 +8,4 @@ class GerarLog():
         hora = datetime.now()
         print(f"{data} - {hora} - {informacao}")
 
-
     
