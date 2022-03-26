@@ -1,5 +1,5 @@
-from main.Domain.RNA_capture import Teste
+from main.Domain.RNA_capture import Capture
 
-run = Teste()
+run = Capture()
 
-run.testeChrome()
+run.captureFromFile()
